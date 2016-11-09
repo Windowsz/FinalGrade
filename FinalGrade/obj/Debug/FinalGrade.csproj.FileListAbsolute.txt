@@ -1,0 +1,9 @@
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\bin\Debug\FinalGrade.exe.config
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\bin\Debug\FinalGrade.exe
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\bin\Debug\FinalGrade.pdb
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\obj\Debug\FinalGrade.csprojResolveAssemblyReference.cache
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\obj\Debug\FinalGrade.Form1.resources
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\obj\Debug\FinalGrade.Properties.Resources.resources
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\obj\Debug\FinalGrade.csproj.GenerateResource.Cache
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\obj\Debug\FinalGrade.exe
+C:\Users\mylik\Desktop\FinalGrade\FinalGrade\obj\Debug\FinalGrade.pdb
